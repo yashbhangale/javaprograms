@@ -26,7 +26,7 @@ public class else_if {
 		}
 		else
 		{
-			System.out.print("Fialed");
+			System.out.print("Fucked up😢");
 		}
 	}
 
